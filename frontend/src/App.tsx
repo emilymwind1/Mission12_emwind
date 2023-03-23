@@ -1,18 +1,23 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+// import team info json file
 import teams from './CollegeBasketballTeams.json';
 
+//create Teams
 const Teams = teams['teams']
 
+// welcome function to be called later
 function Welcome(){
   return(<h1>Information about all the colleges in NCAA Basketball</h1>)
 }
 
+// thanks function to be called later
 function Thanks(){
   return(<h3>Thank you for visiting our website.</h3>)
 }
 
+// print team name, mascot, and location for each team
 class Team extends React.Component <any,any>{
   render() {
     
@@ -37,6 +42,7 @@ function TeamList(){
   );
 }
 
+// calls all the funtions
 function App() {
   return (
   <div>
