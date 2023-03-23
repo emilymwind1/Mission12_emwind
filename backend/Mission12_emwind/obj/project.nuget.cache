@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B88kSO1pwCreveh9CEbrmg/XepFYfHnPm4CPg9Yn5eIiFwWQ/d28yJc2vHMEK4Jdw+XM6/ibivcUSx3Q5fLa/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emily\\OneDrive\\Documents\\Winter Semester 2023\\IS 413 - C#\\Mission12_emwind\\backend\\Mission12_emwind\\Mission12_emwind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
